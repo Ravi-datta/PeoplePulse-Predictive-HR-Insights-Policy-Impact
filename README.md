@@ -116,7 +116,7 @@ HR-Analytics-Workforce-Planning/
 
 ## 📛 License & Contributing
 
-This project is released under the MIT License. Contributions and improvements are welcome—feel free to open issues or PRs.
+This project is released under the MIT License. Contributions and improvements are welcome, feel free to open issues or PRs.
 
 ---
 
