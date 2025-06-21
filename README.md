@@ -62,8 +62,8 @@ HR-Analytics-Workforce-Planning/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/HR-Analytics-Workforce-Planning.git
-   cd HR-Analytics-Workforce-Planning
+   git clone https://github.com/Ravi-datta/PeoplePulse-Predictive-HR-Insights-Policy-Impact.git
+   cd PeoplePulse-Predictive-HR-Insights-Policy-Impact
    ```
 
 2. **Install Python dependencies**
@@ -126,7 +126,6 @@ This project is released under the MIT License. Contributions and improvements a
 - **Email**: jobs.ravidatta@gmail.com
 - **LinkedIn**: https://linkedin.com/in/ravi-datta-rachuri
 
-**Ready to deploy?** Push this repo to GitHub, attach it to your resume, and you’ll have a standout HR analytics showcase that speaks directly to Loudoun County’s needs.
 
 ---
 
