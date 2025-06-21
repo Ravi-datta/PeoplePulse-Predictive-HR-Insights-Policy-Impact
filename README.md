@@ -1,10 +1,10 @@
-# Strategic HR Analytics for Workforce Planning & Policy Development
+# PeoplePulse: Predictive HR Insights & Policy Impact
 
 ![HR Analytics Banner](assets/banner.png)
 
 ## 🚀 Project Overview
 
-**Strategic HR Analytics for Workforce Planning & Policy Development** is a hands-on portfolio project tailored for government HR analysts. It demonstrates how to:
+**PeoplePulse: Predictive HR Insights & Policy Impact** is a hands-on portfolio project tailored for government HR analysts. It demonstrates how to:
 
 - **Predict Attrition Risk** across departments and tenures using explainable AI
 - **Measure Pay Equity** and diversity trends with statistical and visual analysis
