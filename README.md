@@ -125,8 +125,6 @@ This project is released under the MIT License. Contributions and improvements a
 - **Author**: Ravi Datta Rachuri
 - **Email**: jobs.ravidatta@gmail.com
 - **LinkedIn**: https://linkedin.com/in/ravi-datta-rachuri
-
-
 ---
 
 > “Data-driven HR isn’t just about metrics—it’s about powering people-centric policies for real-world impact.”
